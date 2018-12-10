@@ -6,3 +6,5 @@ This is a stylesheet written to convert FileMaker's Data Design Report to schema
 While DATA API represents marginally different( It's not really better or worse ) approach to retrieving data compared to FileMaker CWP. GraphQL will give you a more SOAP-like interface though utilizing JSON, YML or XML depending on your preference.
 
 This will run on any version of FileMaker that has CWP or Thrift; regardless of DATA API.
+
+FileMaker 5.5 Pro will do for this.
